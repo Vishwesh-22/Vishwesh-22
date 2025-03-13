@@ -1,9 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishwesh Shinde!
 
+## 💡 About Me  
+I'm a **Python Developer** passionate about full-stack development and data-driven solutions. 
+With expertise in **Django, web development, and data analysis**, I enjoy building efficient and scalable applications. 
+I have a strong foundation in **backend development**, working with **databases, APIs, and real-time systems**.  
 
-
-# 💫 About Me:
-A chat application using django web sockets and channels
+Currently, I'm exploring **AI/ML integration** to enhance my projects and bring more intelligent features to applications. 
+Always eager to learn and collaborate, I strive to build innovative solutions that make a difference. 🚀  
 
 
 ## 🌐 Socials:
